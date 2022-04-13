@@ -1,4 +1,4 @@
-# Relation Phrase Canonicalization
+# Relation Canonicalization
 
 This is the repository for our ongoing project on the canonicalization of relation phrases (RPs) in triples extracted from Open IE approaches.
 
